@@ -13,15 +13,14 @@
 -   *Steadfast | Inner Focus | Justified (H)*
 
 ## Base stats:
-           min−           	max+
-HP:	        70      ->      344	
-Attack:    110     ->      350 
-Defense:   70      ->      262
-Sp. Atk:   115     ->      361
-Sp. Def:   70      ->      262
-Speed:     90      ->      306
-Total:	    525  at level   100
-
+               min−            max+
+    HP         70      ->      344	
+    Attack:    110     ->      350 
+    Defense:   70      ->      262
+    Sp. Atk:   115     ->      361
+    Sp. Def:   70      ->      262
+    Speed:     90      ->      306
+    Total:	   525  at level   100
 
 
 ## Evolution:
