@@ -6,20 +6,23 @@
 -   *Fighting*
 -   *Steel*
 
+## Size: 
+-   1.2 m, 54 kg
+
 ## Abilities:
 -   *Steadfast | Inner Focus | Justified (H)*
 
 ## Base stats:
-`           min−           	max+`
-`HP:	    70      ->      344	`
-`Attack:    110     ->      350`
-`Defense:   70      ->      262`
-`Sp. Atk:   115     ->      361`
-`Sp. Def:   70      ->      262`
-`Speed:     90      ->      306`
-`Total:	    525  at level   100`
+           min−           	max+
+HP:	        70      ->      344	
+Attack:    110     ->      350 
+Defense:   70      ->      262
+Sp. Atk:   115     ->      361
+Sp. Def:   70      ->      262
+Speed:     90      ->      306
+Total:	    525  at level   100
 
-## ***Size: 1.2 m, 54 kg***
+
 
 ## Evolution:
 Riolu        →	        Lucario
@@ -27,7 +30,7 @@ Riolu        →	        Lucario
 <img width="50" height="50" alt="lucario" src="https://github.com/user-attachments/assets/1e8991ca-86fe-4af3-8b46-53c66e333170" />
 
 
-Evolves from Riolu (level-up with high Friendship during the day)
+`Evolves from Riolu (level-up with high Friendship during the day)`
 Formes:
 Base, Mega
 Egg groups:
